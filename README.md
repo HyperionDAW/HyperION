@@ -1,124 +1,55 @@
 <div align="center">
-  <img src=".github/assets/hyperion-logo.png" width="112" alt="HyperION logo">
+  <img src=".github/assets/hyperion-logo.png" width="96" alt="HyperION DAW logo">
 
-  # HyperION
+  # HyperION DAW
 
-  **A next-generation digital audio workstation for focused music production.**
+  **Create, arrange, record, mix and finish music in one workspace.**
 
-  Record, arrange, compose, mix, master, and explore AI-assisted audio workflows in one modern production environment.
-
-  [Download Free Demo](https://www.hyperiondaw.com/download) · [Buy HyperION](https://www.hyperiondaw.com/buy) · [Compare Editions](https://www.hyperiondaw.com/editions) · [Official Website](https://www.hyperiondaw.com/) · [Download Setup](https://download.hyperiondaw.com/HyperionSetup.exe)
+  [Explore the website](https://www.hyperiondaw.com/) · [Download HyperION](https://www.hyperiondaw.com/download) · [Compare editions](https://www.hyperiondaw.com/editions) · [Browse screenshots](https://www.hyperiondaw.com/screenshots) · [Play generator demos](https://www.hyperiondaw.com/generator-demos)
 </div>
 
-<p align="center">
-  <a href="https://github.com/HyperionDAW/HyperION/releases/latest"><img alt="Latest HyperION release" src="https://img.shields.io/github/v/release/HyperionDAW/HyperION?style=for-the-badge&label=HYPERION&labelColor=24114A&color=8B5CF6&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAMFBMVEUxDGU1DW3V1dXl5eUpAl8rAmbe39vv8ex%2BaJ1mTIxSM32UhKrMydBEInS6ssWonLlL6UE2AAAACXBIWXMAAC4jAAAuIwF4pT92AAAD%2BElEQVRoge2X2baeIAxGUQQHQN%2F%2FbQuITBnU09VenGWuzm8Tdr4MaMXwH0x8kA%2FyQT7IB%2FkNEPXvIWo9HI2hIVxq0PmY7UpG0BBDB8FTNi3lfLyEqG2f98eMQZlZSj3bDc8Lh6hVz3LGpTiHPBtlsHnEQ1CIWmIIJkUt47j0J6lllslQCgaJ4gMFnBbPQx7bDEEpGMRcIRZTAiFqLQyUAiEqMzApqJK9hmjYfQCp6uulgCZjkE3WNsOgHqLWJgDrcf%2FQL2Ido%2BHA9JA0jJeNfVYQosIitlr61HpIU17vb%2FomQ4iZZW9dW0R%2FROfeS4GQTntMrStYC3G9ciAFQGBesGANpGshJgUq2RFIt2E1RG2Ieyelh7SLSEhplCBCZNdFAEGF%2BGUhlKBCwmuCgRAxflnqTGoIMotASg%2FBxYcBEygEmUUopYOARURTE3X4A3%2F%2FxbCXe5YU3w5MBaGU912pflDiZbuQ4kkA%2Fr5jxTdXfoYQA5%2ByIr43LAOpWlcgdHkl8U3B5dU0pUDIlsi6wEKp3BRiEaH8UgdOepaitsWYJX2REot4WXlDZgi8gBuLUoQ75OxtXG61B8udzxA%2BrfMT1CW1c%2FzJzpasG3lB%2BCamedy77xi2JxiETSuuY53HHF4zN1LKDD%2BCnHdq04OQZvtl87eQpLyqTsQK5npsbnuRbFr0SJteJ%2B9zVC5ymQblLBMz6mUSrd1Agv9kKpeAnTaOgUFWFnJMnYt1d4kl%2BQ1kYwOsa%2Bslo7TjNYTzH7VR3sdZfSm7Fe%2BdNgC5aeJ%2BOh2j9mZN%2FGV4yKm%2Btf1%2BvILgeEFOj%2FIaAIPPa89uwR6FxGF5M8OnkKmKCn%2FzfdQGgTARsc8i%2FOf68nbOCdGuJ55YZwPdlOg%2FrdYew1Wo0frZYecL6ztT4bO64cSrBME3DiiTGNISduy3C3LVwEOCEq6R8FI5jUgr5ZSSOIEJIgZ6irFqMWltGWLT9GcIGYNXi1yu3IfV%2F3no%2BDNDBLWQ6Gwxrd8KZHHpks8QIkbvOIKQkncqQkJ5wvEFgq8XKQSvcB73ExIy34eihFhIUojAFrJcDifEu4RnBYJOPiMEi7BOtZBQH71WSpDJp0brOqnrY3XLJUisqd0LBKkxeqPQBbOuUpm2OCWSlYCFpJa9HLVZwj1DhAuJlHIB9Xyx0lmokAoSx7aCdJOPvBERSk6s0e2fy2v5F63H6jOhkWLB9wNKyZ1scpo2Y%2FJk%2Bjd91a1mIR8xAgVvYPX6nabmn6qF5DakPc2Xn7t%2FoL9%2BzQgF8APErm1rafD1s35kynDIx0JSG63eb5YQiXujPEyxNg9mtw985WykfZHUz8zP99tS%2FQij7n0%2B%2B%2Byzzz77tfYHdYVGxlARr18AAAAASUVORK5CYII%3D"></a>
-  <img alt="Windows x64" src="https://img.shields.io/badge/PLATFORM-WINDOWS%20x64-0078D4?style=flat-square&labelColor=24114A&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAMFBMVEUxDGU1DW3V1dXl5eUpAl8rAmbe39vv8ex%2BaJ1mTIxSM32UhKrMydBEInS6ssWonLlL6UE2AAAACXBIWXMAAC4jAAAuIwF4pT92AAAD%2BElEQVRoge2X2baeIAxGUQQHQN%2F%2FbQuITBnU09VenGWuzm8Tdr4MaMXwH0x8kA%2FyQT7IB%2FkNEPXvIWo9HI2hIVxq0PmY7UpG0BBDB8FTNi3lfLyEqG2f98eMQZlZSj3bDc8Lh6hVz3LGpTiHPBtlsHnEQ1CIWmIIJkUt47j0J6lllslQCgaJ4gMFnBbPQx7bDEEpGMRcIRZTAiFqLQyUAiEqMzApqJK9hmjYfQCp6uulgCZjkE3WNsOgHqLWJgDrcf%2FQL2Ido%2BHA9JA0jJeNfVYQosIitlr61HpIU17vb%2FomQ4iZZW9dW0R%2FROfeS4GQTntMrStYC3G9ciAFQGBesGANpGshJgUq2RFIt2E1RG2Ieyelh7SLSEhplCBCZNdFAEGF%2BGUhlKBCwmuCgRAxflnqTGoIMotASg%2FBxYcBEygEmUUopYOARURTE3X4A3%2F%2FxbCXe5YU3w5MBaGU912pflDiZbuQ4kkA%2Fr5jxTdXfoYQA5%2ByIr43LAOpWlcgdHkl8U3B5dU0pUDIlsi6wEKp3BRiEaH8UgdOepaitsWYJX2REot4WXlDZgi8gBuLUoQ75OxtXG61B8udzxA%2BrfMT1CW1c%2FzJzpasG3lB%2BCamedy77xi2JxiETSuuY53HHF4zN1LKDD%2BCnHdq04OQZvtl87eQpLyqTsQK5npsbnuRbFr0SJteJ%2B9zVC5ymQblLBMz6mUSrd1Agv9kKpeAnTaOgUFWFnJMnYt1d4kl%2BQ1kYwOsa%2Bslo7TjNYTzH7VR3sdZfSm7Fe%2BdNgC5aeJ%2BOh2j9mZN%2FGV4yKm%2Btf1%2BvILgeEFOj%2FIaAIPPa89uwR6FxGF5M8OnkKmKCn%2FzfdQGgTARsc8i%2FOf68nbOCdGuJ55YZwPdlOg%2FrdYew1Wo0frZYecL6ztT4bO64cSrBME3DiiTGNISduy3C3LVwEOCEq6R8FI5jUgr5ZSSOIEJIgZ6irFqMWltGWLT9GcIGYNXi1yu3IfV%2F3no%2BDNDBLWQ6Gwxrd8KZHHpks8QIkbvOIKQkncqQkJ5wvEFgq8XKQSvcB73ExIy34eihFhIUojAFrJcDifEu4RnBYJOPiMEi7BOtZBQH71WSpDJp0brOqnrY3XLJUisqd0LBKkxeqPQBbOuUpm2OCWSlYCFpJa9HLVZwj1DhAuJlHIB9Xyx0lmokAoSx7aCdJOPvBERSk6s0e2fy2v5F63H6jOhkWLB9wNKyZ1scpo2Y%2FJk%2Bjd91a1mIR8xAgVvYPX6nabmn6qF5DakPc2Xn7t%2FoL9%2BzQgF8APErm1rafD1s35kynDIx0JSG63eb5YQiXujPEyxNg9mtw985WykfZHUz8zP99tS%2FQij7n0%2B%2B%2Byzzz77tfYHdYVGxlARr18AAAAASUVORK5CYII%3D">
-  <img alt="VST3 support" src="https://img.shields.io/badge/PLUGINS-VST3-8B5CF6?style=flat-square&labelColor=24114A&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAMFBMVEUxDGU1DW3V1dXl5eUpAl8rAmbe39vv8ex%2BaJ1mTIxSM32UhKrMydBEInS6ssWonLlL6UE2AAAACXBIWXMAAC4jAAAuIwF4pT92AAAD%2BElEQVRoge2X2baeIAxGUQQHQN%2F%2FbQuITBnU09VenGWuzm8Tdr4MaMXwH0x8kA%2FyQT7IB%2FkNEPXvIWo9HI2hIVxq0PmY7UpG0BBDB8FTNi3lfLyEqG2f98eMQZlZSj3bDc8Lh6hVz3LGpTiHPBtlsHnEQ1CIWmIIJkUt47j0J6lllslQCgaJ4gMFnBbPQx7bDEEpGMRcIRZTAiFqLQyUAiEqMzApqJK9hmjYfQCp6uulgCZjkE3WNsOgHqLWJgDrcf%2FQL2Ido%2BHA9JA0jJeNfVYQosIitlr61HpIU17vb%2FomQ4iZZW9dW0R%2FROfeS4GQTntMrStYC3G9ciAFQGBesGANpGshJgUq2RFIt2E1RG2Ieyelh7SLSEhplCBCZNdFAEGF%2BGUhlKBCwmuCgRAxflnqTGoIMotASg%2FBxYcBEygEmUUopYOARURTE3X4A3%2F%2FxbCXe5YU3w5MBaGU912pflDiZbuQ4kkA%2Fr5jxTdXfoYQA5%2ByIr43LAOpWlcgdHkl8U3B5dU0pUDIlsi6wEKp3BRiEaH8UgdOepaitsWYJX2REot4WXlDZgi8gBuLUoQ75OxtXG61B8udzxA%2BrfMT1CW1c%2FzJzpasG3lB%2BCamedy77xi2JxiETSuuY53HHF4zN1LKDD%2BCnHdq04OQZvtl87eQpLyqTsQK5npsbnuRbFr0SJteJ%2B9zVC5ymQblLBMz6mUSrd1Agv9kKpeAnTaOgUFWFnJMnYt1d4kl%2BQ1kYwOsa%2Bslo7TjNYTzH7VR3sdZfSm7Fe%2BdNgC5aeJ%2BOh2j9mZN%2FGV4yKm%2Btf1%2BvILgeEFOj%2FIaAIPPa89uwR6FxGF5M8OnkKmKCn%2FzfdQGgTARsc8i%2FOf68nbOCdGuJ55YZwPdlOg%2FrdYew1Wo0frZYecL6ztT4bO64cSrBME3DiiTGNISduy3C3LVwEOCEq6R8FI5jUgr5ZSSOIEJIgZ6irFqMWltGWLT9GcIGYNXi1yu3IfV%2F3no%2BDNDBLWQ6Gwxrd8KZHHpks8QIkbvOIKQkncqQkJ5wvEFgq8XKQSvcB73ExIy34eihFhIUojAFrJcDifEu4RnBYJOPiMEi7BOtZBQH71WSpDJp0brOqnrY3XLJUisqd0LBKkxeqPQBbOuUpm2OCWSlYCFpJa9HLVZwj1DhAuJlHIB9Xyx0lmokAoSx7aCdJOPvBERSk6s0e2fy2v5F63H6jOhkWLB9wNKyZ1scpo2Y%2FJk%2Bjd91a1mIR8xAgVvYPX6nabmn6qF5DakPc2Xn7t%2FoL9%2BzQgF8APErm1rafD1s35kynDIx0JSG63eb5YQiXujPEyxNg9mtw985WykfZHUz8zP99tS%2FQij7n0%2B%2B%2Byzzz77tfYHdYVGxlARr18AAAAASUVORK5CYII%3D">
-  <img alt="Audio and MIDI workflow" src="https://img.shields.io/badge/WORKFLOW-AUDIO%20%2B%20MIDI-22D3EE?style=flat-square&labelColor=24114A&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAMFBMVEUxDGU1DW3V1dXl5eUpAl8rAmbe39vv8ex%2BaJ1mTIxSM32UhKrMydBEInS6ssWonLlL6UE2AAAACXBIWXMAAC4jAAAuIwF4pT92AAAD%2BElEQVRoge2X2baeIAxGUQQHQN%2F%2FbQuITBnU09VenGWuzm8Tdr4MaMXwH0x8kA%2FyQT7IB%2FkNEPXvIWo9HI2hIVxq0PmY7UpG0BBDB8FTNi3lfLyEqG2f98eMQZlZSj3bDc8Lh6hVz3LGpTiHPBtlsHnEQ1CIWmIIJkUt47j0J6lllslQCgaJ4gMFnBbPQx7bDEEpGMRcIRZTAiFqLQyUAiEqMzApqJK9hmjYfQCp6uulgCZjkE3WNsOgHqLWJgDrcf%2FQL2Ido%2BHA9JA0jJeNfVYQosIitlr61HpIU17vb%2FomQ4iZZW9dW0R%2FROfeS4GQTntMrStYC3G9ciAFQGBesGANpGshJgUq2RFIt2E1RG2Ieyelh7SLSEhplCBCZNdFAEGF%2BGUhlKBCwmuCgRAxflnqTGoIMotASg%2FBxYcBEygEmUUopYOARURTE3X4A3%2F%2FxbCXe5YU3w5MBaGU912pflDiZbuQ4kkA%2Fr5jxTdXfoYQA5%2ByIr43LAOpWlcgdHkl8U3B5dU0pUDIlsi6wEKp3BRiEaH8UgdOepaitsWYJX2REot4WXlDZgi8gBuLUoQ75OxtXG61B8udzxA%2BrfMT1CW1c%2FzJzpasG3lB%2BCamedy77xi2JxiETSuuY53HHF4zN1LKDD%2BCnHdq04OQZvtl87eQpLyqTsQK5npsbnuRbFr0SJteJ%2B9zVC5ymQblLBMz6mUSrd1Agv9kKpeAnTaOgUFWFnJMnYt1d4kl%2BQ1kYwOsa%2Bslo7TjNYTzH7VR3sdZfSm7Fe%2BdNgC5aeJ%2BOh2j9mZN%2FGV4yKm%2Btf1%2BvILgeEFOj%2FIaAIPPa89uwR6FxGF5M8OnkKmKCn%2FzfdQGgTARsc8i%2FOf68nbOCdGuJ55YZwPdlOg%2FrdYew1Wo0frZYecL6ztT4bO64cSrBME3DiiTGNISduy3C3LVwEOCEq6R8FI5jUgr5ZSSOIEJIgZ6irFqMWltGWLT9GcIGYNXi1yu3IfV%2F3no%2BDNDBLWQ6Gwxrd8KZHHpks8QIkbvOIKQkncqQkJ5wvEFgq8XKQSvcB73ExIy34eihFhIUojAFrJcDifEu4RnBYJOPiMEi7BOtZBQH71WSpDJp0brOqnrY3XLJUisqd0LBKkxeqPQBbOuUpm2OCWSlYCFpJa9HLVZwj1DhAuJlHIB9Xyx0lmokAoSx7aCdJOPvBERSk6s0e2fy2v5F63H6jOhkWLB9wNKyZ1scpo2Y%2FJk%2Bjd91a1mIR8xAgVvYPX6nabmn6qF5DakPc2Xn7t%2FoL9%2BzQgF8APErm1rafD1s35kynDIx0JSG63eb5YQiXujPEyxNg9mtw985WykfZHUz8zP99tS%2FQij7n0%2B%2B%2Byzzz77tfYHdYVGxlARr18AAAAASUVORK5CYII%3D">
-  <img alt="AI tools in Ultimate Edition" src="https://img.shields.io/badge/AI-ULTIMATE%20EDITION-EC4899?style=flat-square&labelColor=24114A&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAMFBMVEUxDGU1DW3V1dXl5eUpAl8rAmbe39vv8ex%2BaJ1mTIxSM32UhKrMydBEInS6ssWonLlL6UE2AAAACXBIWXMAAC4jAAAuIwF4pT92AAAD%2BElEQVRoge2X2baeIAxGUQQHQN%2F%2FbQuITBnU09VenGWuzm8Tdr4MaMXwH0x8kA%2FyQT7IB%2FkNEPXvIWo9HI2hIVxq0PmY7UpG0BBDB8FTNi3lfLyEqG2f98eMQZlZSj3bDc8Lh6hVz3LGpTiHPBtlsHnEQ1CIWmIIJkUt47j0J6lllslQCgaJ4gMFnBbPQx7bDEEpGMRcIRZTAiFqLQyUAiEqMzApqJK9hmjYfQCp6uulgCZjkE3WNsOgHqLWJgDrcf%2FQL2Ido%2BHA9JA0jJeNfVYQosIitlr61HpIU17vb%2FomQ4iZZW9dW0R%2FROfeS4GQTntMrStYC3G9ciAFQGBesGANpGshJgUq2RFIt2E1RG2Ieyelh7SLSEhplCBCZNdFAEGF%2BGUhlKBCwmuCgRAxflnqTGoIMotASg%2FBxYcBEygEmUUopYOARURTE3X4A3%2F%2FxbCXe5YU3w5MBaGU912pflDiZbuQ4kkA%2Fr5jxTdXfoYQA5%2ByIr43LAOpWlcgdHkl8U3B5dU0pUDIlsi6wEKp3BRiEaH8UgdOepaitsWYJX2REot4WXlDZgi8gBuLUoQ75OxtXG61B8udzxA%2BrfMT1CW1c%2FzJzpasG3lB%2BCamedy77xi2JxiETSuuY53HHF4zN1LKDD%2BCnHdq04OQZvtl87eQpLyqTsQK5npsbnuRbFr0SJteJ%2B9zVC5ymQblLBMz6mUSrd1Agv9kKpeAnTaOgUFWFnJMnYt1d4kl%2BQ1kYwOsa%2Bslo7TjNYTzH7VR3sdZfSm7Fe%2BdNgC5aeJ%2BOh2j9mZN%2FGV4yKm%2Btf1%2BvILgeEFOj%2FIaAIPPa89uwR6FxGF5M8OnkKmKCn%2FzfdQGgTARsc8i%2FOf68nbOCdGuJ55YZwPdlOg%2FrdYew1Wo0frZYecL6ztT4bO64cSrBME3DiiTGNISduy3C3LVwEOCEq6R8FI5jUgr5ZSSOIEJIgZ6irFqMWltGWLT9GcIGYNXi1yu3IfV%2F3no%2BDNDBLWQ6Gwxrd8KZHHpks8QIkbvOIKQkncqQkJ5wvEFgq8XKQSvcB73ExIy34eihFhIUojAFrJcDifEu4RnBYJOPiMEi7BOtZBQH71WSpDJp0brOqnrY3XLJUisqd0LBKkxeqPQBbOuUpm2OCWSlYCFpJa9HLVZwj1DhAuJlHIB9Xyx0lmokAoSx7aCdJOPvBERSk6s0e2fy2v5F63H6jOhkWLB9wNKyZ1scpo2Y%2FJk%2Bjd91a1mIR8xAgVvYPX6nabmn6qF5DakPc2Xn7t%2FoL9%2BzQgF8APErm1rafD1s35kynDIx0JSG63eb5YQiXujPEyxNg9mtw985WykfZHUz8zP99tS%2FQij7n0%2B%2B%2Byzzz77tfYHdYVGxlARr18AAAAASUVORK5CYII%3D">
-  <img alt="Active development" src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPMENT-22C55E?style=flat-square&labelColor=24114A&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAMFBMVEUxDGU1DW3V1dXl5eUpAl8rAmbe39vv8ex%2BaJ1mTIxSM32UhKrMydBEInS6ssWonLlL6UE2AAAACXBIWXMAAC4jAAAuIwF4pT92AAAD%2BElEQVRoge2X2baeIAxGUQQHQN%2F%2FbQuITBnU09VenGWuzm8Tdr4MaMXwH0x8kA%2FyQT7IB%2FkNEPXvIWo9HI2hIVxq0PmY7UpG0BBDB8FTNi3lfLyEqG2f98eMQZlZSj3bDc8Lh6hVz3LGpTiHPBtlsHnEQ1CIWmIIJkUt47j0J6lllslQCgaJ4gMFnBbPQx7bDEEpGMRcIRZTAiFqLQyUAiEqMzApqJK9hmjYfQCp6uulgCZjkE3WNsOgHqLWJgDrcf%2FQL2Ido%2BHA9JA0jJeNfVYQosIitlr61HpIU17vb%2FomQ4iZZW9dW0R%2FROfeS4GQTntMrStYC3G9ciAFQGBesGANpGshJgUq2RFIt2E1RG2Ieyelh7SLSEhplCBCZNdFAEGF%2BGUhlKBCwmuCgRAxflnqTGoIMotASg%2FBxYcBEygEmUUopYOARURTE3X4A3%2F%2FxbCXe5YU3w5MBaGU912pflDiZbuQ4kkA%2Fr5jxTdXfoYQA5%2ByIr43LAOpWlcgdHkl8U3B5dU0pUDIlsi6wEKp3BRiEaH8UgdOepaitsWYJX2REot4WXlDZgi8gBuLUoQ75OxtXG61B8udzxA%2BrfMT1CW1c%2FzJzpasG3lB%2BCamedy77xi2JxiETSuuY53HHF4zN1LKDD%2BCnHdq04OQZvtl87eQpLyqTsQK5npsbnuRbFr0SJteJ%2B9zVC5ymQblLBMz6mUSrd1Agv9kKpeAnTaOgUFWFnJMnYt1d4kl%2BQ1kYwOsa%2Bslo7TjNYTzH7VR3sdZfSm7Fe%2BdNgC5aeJ%2BOh2j9mZN%2FGV4yKm%2Btf1%2BvILgeEFOj%2FIaAIPPa89uwR6FxGF5M8OnkKmKCn%2FzfdQGgTARsc8i%2FOf68nbOCdGuJ55YZwPdlOg%2FrdYew1Wo0frZYecL6ztT4bO64cSrBME3DiiTGNISduy3C3LVwEOCEq6R8FI5jUgr5ZSSOIEJIgZ6irFqMWltGWLT9GcIGYNXi1yu3IfV%2F3no%2BDNDBLWQ6Gwxrd8KZHHpks8QIkbvOIKQkncqQkJ5wvEFgq8XKQSvcB73ExIy34eihFhIUojAFrJcDifEu4RnBYJOPiMEi7BOtZBQH71WSpDJp0brOqnrY3XLJUisqd0LBKkxeqPQBbOuUpm2OCWSlYCFpJa9HLVZwj1DhAuJlHIB9Xyx0lmokAoSx7aCdJOPvBERSk6s0e2fy2v5F63H6jOhkWLB9wNKyZ1scpo2Y%2FJk%2Bjd91a1mIR8xAgVvYPX6nabmn6qF5DakPc2Xn7t%2FoL9%2BzQgF8APErm1rafD1s35kynDIx0JSG63eb5YQiXujPEyxNg9mtw985WykfZHUz8zP99tS%2FQij7n0%2B%2B%2Byzzz77tfYHdYVGxlARr18AAAAASUVORK5CYII%3D">
-</p>
+![HyperION 1.1.5.0 Arrangement workspace](.github/assets/1.1.5.0/arrangement-view-02.webp)
 
-![HyperION digital audio workstation](.github/assets/hyperion-daw-hero.jpg)
+HyperION combines audio and MIDI recording, an editable arrangement, Piano Roll, Step Sequencer, routing and mixing tools, and creative generators. The public download page lists Windows x64, macOS Universal, and Linux x64/ARM64 packages for version 1.1.5.0. Check that page for the latest available build and installation details.
 
-## From first idea to final master
-
-HyperION brings the essential stages of music production into a single, fast workflow. Build arrangements with audio and MIDI, shape ideas in the piano roll and step sequencer, record performances, host VST3 instruments and effects, mix through a clear channel workflow, and export the finished track.
-
-### Production essentials
-
-- Multitrack audio recording and arrangement editing
-- MIDI composition, piano roll, and pattern-based sequencing
-- Mixer, routing, automation, metering, and mastering tools
-- VST3 instrument and effect hosting
-- Built-in effects and creative production tools
-- Project save/load, audio export, and MIDI export
-
-### AI-assisted workflows
-
-Ultimate Edition expands HyperION with tools designed to shorten repetitive production work, including stem separation, track-to-MIDI, vocal cleanup, pitch correction, prompt-based audio tools, and assisted mastering.
+## See the current workflow
 
 <table>
   <tr>
-    <td width="50%"><img src=".github/assets/feature-piano-roll.jpg" alt="HyperION piano roll"><br><strong>Piano Roll</strong><br>Compose and refine editable MIDI performances.</td>
-    <td width="50%"><img src=".github/assets/feature-step-sequencer.jpg" alt="HyperION step sequencer"><br><strong>Step Sequencer</strong><br>Turn rhythmic ideas into patterns quickly.</td>
+    <td width="50%"><img src=".github/assets/1.1.5.0/piano-roll.webp" alt="HyperION Piano Roll"><br><strong>Piano Roll</strong><br>Compose and edit MIDI parts.</td>
+    <td width="50%"><img src=".github/assets/1.1.5.0/step-sequencer-intelligence.webp" alt="HyperION Step Sequencer"><br><strong>Step Sequencer</strong><br>Build rhythms and generate variations.</td>
   </tr>
   <tr>
-    <td width="50%"><img src=".github/assets/feature-stem-separation.jpg" alt="HyperION stem separation"><br><strong>Stem Separation</strong><br>Split a mix into production-ready stems.</td>
-    <td width="50%"><img src=".github/assets/feature-track-to-midi.jpg" alt="HyperION track to MIDI"><br><strong>Track to MIDI</strong><br>Convert musical audio into editable MIDI.</td>
+    <td><img src=".github/assets/1.1.5.0/mixer.webp" alt="HyperION Mixer"><br><strong>Mixer</strong><br>Balance channels, inserts and routing.</td>
+    <td><img src=".github/assets/1.1.5.0/themes.webp" alt="HyperION themes"><br><strong>Themes</strong><br>Choose an interface that fits your workspace.</td>
   </tr>
   <tr>
-    <td width="50%"><img src=".github/assets/feature-hypertune.jpg" alt="HyperION HyperTune"><br><strong>HyperTune</strong><br>Shape pitch and vocal performances visually.</td>
-    <td width="50%"><img src=".github/assets/feature-prompt-audio.jpg" alt="HyperION Prompt Audio Studio"><br><strong>Prompt Audio Studio</strong><br>Explore assisted sound generation inside the workflow.</td>
+    <td><img src=".github/assets/1.1.5.0/stem-separation.webp" alt="HyperION Stem Separation"><br><strong>Stem Separation</strong><br>Separate a source into musical parts.</td>
+    <td><img src=".github/assets/1.1.5.0/track-to-midi.webp" alt="HyperION Track to MIDI"><br><strong>Track to MIDI</strong><br>Turn audio ideas into editable MIDI.</td>
+  </tr>
+  <tr>
+    <td><img src=".github/assets/1.1.5.0/hypertune.webp" alt="HyperION HyperTune"><br><strong>HyperTune</strong><br>Edit pitch and timing.</td>
+    <td><img src=".github/assets/1.1.5.0/prompt-audio-studio.webp" alt="HyperION Prompt Audio Studio"><br><strong>Prompt Audio Studio</strong><br>Explore assisted sound creation.</td>
   </tr>
 </table>
 
-## Choose your edition
+The [full screenshot gallery](https://www.hyperiondaw.com/screenshots) has more views of the current workspace and tools. Listen to [Song Starter and Native VST examples](https://www.hyperiondaw.com/generator-demos) in the browser.
 
-| Edition | Best for | Included |
+## Editions and downloads
+
+| Edition | Best for | Current public pricing |
 | --- | --- | --- |
-| [Demo](https://www.hyperiondaw.com/download) | Trying the HyperION workflow | Core interface, recording, mixer, piano roll, and arrangement tools |
-| [Standard](https://www.hyperiondaw.com/buy#paddle-standard) | Everyday music production | Project saving, audio/MIDI export, production tools, and future Standard updates |
-| [Ultimate](https://www.hyperiondaw.com/buy#paddle-ultimate) | The complete HyperION experience | Everything in Standard plus advanced AI production, stem, vocal, pitch, and mastering tools |
+| [Free / Demo](https://www.hyperiondaw.com/editions/demo) | Trying the workflow with limited saving, exports and AI allowance | Free |
+| [Standard](https://www.hyperiondaw.com/editions/standard) | Full core production workflow | $20 one-time |
+| [Ultimate](https://www.hyperiondaw.com/editions/ultimate) | Expanded AI and creative tools | $30 one-time |
 
-<p align="center">
-  <a href="https://www.hyperiondaw.com/download"><img alt="Demo Edition" src="https://img.shields.io/badge/EDITION-DEMO-64748B?style=for-the-badge&labelColor=24114A&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAMFBMVEUxDGU1DW3V1dXl5eUpAl8rAmbe39vv8ex%2BaJ1mTIxSM32UhKrMydBEInS6ssWonLlL6UE2AAAACXBIWXMAAC4jAAAuIwF4pT92AAAD%2BElEQVRoge2X2baeIAxGUQQHQN%2F%2FbQuITBnU09VenGWuzm8Tdr4MaMXwH0x8kA%2FyQT7IB%2FkNEPXvIWo9HI2hIVxq0PmY7UpG0BBDB8FTNi3lfLyEqG2f98eMQZlZSj3bDc8Lh6hVz3LGpTiHPBtlsHnEQ1CIWmIIJkUt47j0J6lllslQCgaJ4gMFnBbPQx7bDEEpGMRcIRZTAiFqLQyUAiEqMzApqJK9hmjYfQCp6uulgCZjkE3WNsOgHqLWJgDrcf%2FQL2Ido%2BHA9JA0jJeNfVYQosIitlr61HpIU17vb%2FomQ4iZZW9dW0R%2FROfeS4GQTntMrStYC3G9ciAFQGBesGANpGshJgUq2RFIt2E1RG2Ieyelh7SLSEhplCBCZNdFAEGF%2BGUhlKBCwmuCgRAxflnqTGoIMotASg%2FBxYcBEygEmUUopYOARURTE3X4A3%2F%2FxbCXe5YU3w5MBaGU912pflDiZbuQ4kkA%2Fr5jxTdXfoYQA5%2ByIr43LAOpWlcgdHkl8U3B5dU0pUDIlsi6wEKp3BRiEaH8UgdOepaitsWYJX2REot4WXlDZgi8gBuLUoQ75OxtXG61B8udzxA%2BrfMT1CW1c%2FzJzpasG3lB%2BCamedy77xi2JxiETSuuY53HHF4zN1LKDD%2BCnHdq04OQZvtl87eQpLyqTsQK5npsbnuRbFr0SJteJ%2B9zVC5ymQblLBMz6mUSrd1Agv9kKpeAnTaOgUFWFnJMnYt1d4kl%2BQ1kYwOsa%2Bslo7TjNYTzH7VR3sdZfSm7Fe%2BdNgC5aeJ%2BOh2j9mZN%2FGV4yKm%2Btf1%2BvILgeEFOj%2FIaAIPPa89uwR6FxGF5M8OnkKmKCn%2FzfdQGgTARsc8i%2FOf68nbOCdGuJ55YZwPdlOg%2FrdYew1Wo0frZYecL6ztT4bO64cSrBME3DiiTGNISduy3C3LVwEOCEq6R8FI5jUgr5ZSSOIEJIgZ6irFqMWltGWLT9GcIGYNXi1yu3IfV%2F3no%2BDNDBLWQ6Gwxrd8KZHHpks8QIkbvOIKQkncqQkJ5wvEFgq8XKQSvcB73ExIy34eihFhIUojAFrJcDifEu4RnBYJOPiMEi7BOtZBQH71WSpDJp0brOqnrY3XLJUisqd0LBKkxeqPQBbOuUpm2OCWSlYCFpJa9HLVZwj1DhAuJlHIB9Xyx0lmokAoSx7aCdJOPvBERSk6s0e2fy2v5F63H6jOhkWLB9wNKyZ1scpo2Y%2FJk%2Bjd91a1mIR8xAgVvYPX6nabmn6qF5DakPc2Xn7t%2FoL9%2BzQgF8APErm1rafD1s35kynDIx0JSG63eb5YQiXujPEyxNg9mtw985WykfZHUz8zP99tS%2FQij7n0%2B%2B%2Byzzz77tfYHdYVGxlARr18AAAAASUVORK5CYII%3D"></a>
-  <a href="https://www.hyperiondaw.com/buy#paddle-standard"><img alt="Standard Edition" src="https://img.shields.io/badge/EDITION-STANDARD-22D3EE?style=for-the-badge&labelColor=24114A&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAMFBMVEUxDGU1DW3V1dXl5eUpAl8rAmbe39vv8ex%2BaJ1mTIxSM32UhKrMydBEInS6ssWonLlL6UE2AAAACXBIWXMAAC4jAAAuIwF4pT92AAAD%2BElEQVRoge2X2baeIAxGUQQHQN%2F%2FbQuITBnU09VenGWuzm8Tdr4MaMXwH0x8kA%2FyQT7IB%2FkNEPXvIWo9HI2hIVxq0PmY7UpG0BBDB8FTNi3lfLyEqG2f98eMQZlZSj3bDc8Lh6hVz3LGpTiHPBtlsHnEQ1CIWmIIJkUt47j0J6lllslQCgaJ4gMFnBbPQx7bDEEpGMRcIRZTAiFqLQyUAiEqMzApqJK9hmjYfQCp6uulgCZjkE3WNsOgHqLWJgDrcf%2FQL2Ido%2BHA9JA0jJeNfVYQosIitlr61HpIU17vb%2FomQ4iZZW9dW0R%2FROfeS4GQTntMrStYC3G9ciAFQGBesGANpGshJgUq2RFIt2E1RG2Ieyelh7SLSEhplCBCZNdFAEGF%2BGUhlKBCwmuCgRAxflnqTGoIMotASg%2FBxYcBEygEmUUopYOARURTE3X4A3%2F%2FxbCXe5YU3w5MBaGU912pflDiZbuQ4kkA%2Fr5jxTdXfoYQA5%2ByIr43LAOpWlcgdHkl8U3B5dU0pUDIlsi6wEKp3BRiEaH8UgdOepaitsWYJX2REot4WXlDZgi8gBuLUoQ75OxtXG61B8udzxA%2BrfMT1CW1c%2FzJzpasG3lB%2BCamedy77xi2JxiETSuuY53HHF4zN1LKDD%2BCnHdq04OQZvtl87eQpLyqTsQK5npsbnuRbFr0SJteJ%2B9zVC5ymQblLBMz6mUSrd1Agv9kKpeAnTaOgUFWFnJMnYt1d4kl%2BQ1kYwOsa%2Bslo7TjNYTzH7VR3sdZfSm7Fe%2BdNgC5aeJ%2BOh2j9mZN%2FGV4yKm%2Btf1%2BvILgeEFOj%2FIaAIPPa89uwR6FxGF5M8OnkKmKCn%2FzfdQGgTARsc8i%2FOf68nbOCdGuJ55YZwPdlOg%2FrdYew1Wo0frZYecL6ztT4bO64cSrBME3DiiTGNISduy3C3LVwEOCEq6R8FI5jUgr5ZSSOIEJIgZ6irFqMWltGWLT9GcIGYNXi1yu3IfV%2F3no%2BDNDBLWQ6Gwxrd8KZHHpks8QIkbvOIKQkncqQkJ5wvEFgq8XKQSvcB73ExIy34eihFhIUojAFrJcDifEu4RnBYJOPiMEi7BOtZBQH71WSpDJp0brOqnrY3XLJUisqd0LBKkxeqPQBbOuUpm2OCWSlYCFpJa9HLVZwj1DhAuJlHIB9Xyx0lmokAoSx7aCdJOPvBERSk6s0e2fy2v5F63H6jOhkWLB9wNKyZ1scpo2Y%2FJk%2Bjd91a1mIR8xAgVvYPX6nabmn6qF5DakPc2Xn7t%2FoL9%2BzQgF8APErm1rafD1s35kynDIx0JSG63eb5YQiXujPEyxNg9mtw985WykfZHUz8zP99tS%2FQij7n0%2B%2B%2Byzzz77tfYHdYVGxlARr18AAAAASUVORK5CYII%3D"></a>
-  <a href="https://www.hyperiondaw.com/buy#paddle-ultimate"><img alt="Ultimate Edition" src="https://img.shields.io/badge/EDITION-ULTIMATE-EC4899?style=for-the-badge&labelColor=24114A&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAMFBMVEUxDGU1DW3V1dXl5eUpAl8rAmbe39vv8ex%2BaJ1mTIxSM32UhKrMydBEInS6ssWonLlL6UE2AAAACXBIWXMAAC4jAAAuIwF4pT92AAAD%2BElEQVRoge2X2baeIAxGUQQHQN%2F%2FbQuITBnU09VenGWuzm8Tdr4MaMXwH0x8kA%2FyQT7IB%2FkNEPXvIWo9HI2hIVxq0PmY7UpG0BBDB8FTNi3lfLyEqG2f98eMQZlZSj3bDc8Lh6hVz3LGpTiHPBtlsHnEQ1CIWmIIJkUt47j0J6lllslQCgaJ4gMFnBbPQx7bDEEpGMRcIRZTAiFqLQyUAiEqMzApqJK9hmjYfQCp6uulgCZjkE3WNsOgHqLWJgDrcf%2FQL2Ido%2BHA9JA0jJeNfVYQosIitlr61HpIU17vb%2FomQ4iZZW9dW0R%2FROfeS4GQTntMrStYC3G9ciAFQGBesGANpGshJgUq2RFIt2E1RG2Ieyelh7SLSEhplCBCZNdFAEGF%2BGUhlKBCwmuCgRAxflnqTGoIMotASg%2FBxYcBEygEmUUopYOARURTE3X4A3%2F%2FxbCXe5YU3w5MBaGU912pflDiZbuQ4kkA%2Fr5jxTdXfoYQA5%2ByIr43LAOpWlcgdHkl8U3B5dU0pUDIlsi6wEKp3BRiEaH8UgdOepaitsWYJX2REot4WXlDZgi8gBuLUoQ75OxtXG61B8udzxA%2BrfMT1CW1c%2FzJzpasG3lB%2BCamedy77xi2JxiETSuuY53HHF4zN1LKDD%2BCnHdq04OQZvtl87eQpLyqTsQK5npsbnuRbFr0SJteJ%2B9zVC5ymQblLBMz6mUSrd1Agv9kKpeAnTaOgUFWFnJMnYt1d4kl%2BQ1kYwOsa%2Bslo7TjNYTzH7VR3sdZfSm7Fe%2BdNgC5aeJ%2BOh2j9mZN%2FGV4yKm%2Btf1%2BvILgeEFOj%2FIaAIPPa89uwR6FxGF5M8OnkKmKCn%2FzfdQGgTARsc8i%2FOf68nbOCdGuJ55YZwPdlOg%2FrdYew1Wo0frZYecL6ztT4bO64cSrBME3DiiTGNISduy3C3LVwEOCEq6R8FI5jUgr5ZSSOIEJIgZ6irFqMWltGWLT9GcIGYNXi1yu3IfV%2F3no%2BDNDBLWQ6Gwxrd8KZHHpks8QIkbvOIKQkncqQkJ5wvEFgq8XKQSvcB73ExIy34eihFhIUojAFrJcDifEu4RnBYJOPiMEi7BOtZBQH71WSpDJp0brOqnrY3XLJUisqd0LBKkxeqPQBbOuUpm2OCWSlYCFpJa9HLVZwj1DhAuJlHIB9Xyx0lmokAoSx7aCdJOPvBERSk6s0e2fy2v5F63H6jOhkWLB9wNKyZ1scpo2Y%2FJk%2Bjd91a1mIR8xAgVvYPX6nabmn6qF5DakPc2Xn7t%2FoL9%2BzQgF8APErm1rafD1s35kynDIx0JSG63eb5YQiXujPEyxNg9mtw985WykfZHUz8zP99tS%2FQij7n0%2B%2B%2Byzzz77tfYHdYVGxlARr18AAAAASUVORK5CYII%3D"></a>
-</p>
+Edition limits and available features can change with releases. Use the [live comparison](https://www.hyperiondaw.com/editions) before purchasing. Download the correct package for your system from the [official download page](https://www.hyperiondaw.com/download).
 
-See the complete edition comparison on the [HyperION Editions page](https://www.hyperiondaw.com/editions).
+## Help and feedback
 
-## Download HyperION
+- [Manual](https://www.hyperiondaw.com/manualen) and [FAQ](https://www.hyperiondaw.com/faq)
+- [Contact the team](https://www.hyperiondaw.com/contact) for support, licensing or partnerships
+- [Request a feature](https://www.hyperiondaw.com/) from the main site; approved and added requests appear on the [coming features page](https://www.hyperiondaw.com/coming-features)
+- [Open a bug report](https://github.com/HyperionDAW/HyperION/issues/new?template=bug_report.yml) or [propose a feature](https://github.com/HyperionDAW/HyperION/issues/new?template=feature_request.yml) on GitHub
 
-<div align="center">
-
-[![Download HyperION Setup](https://img.shields.io/badge/DOWNLOAD-SETUP-22D3EE?style=for-the-badge&labelColor=24114A&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAMFBMVEUxDGU1DW3V1dXl5eUpAl8rAmbe39vv8ex%2BaJ1mTIxSM32UhKrMydBEInS6ssWonLlL6UE2AAAACXBIWXMAAC4jAAAuIwF4pT92AAAD%2BElEQVRoge2X2baeIAxGUQQHQN%2F%2FbQuITBnU09VenGWuzm8Tdr4MaMXwH0x8kA%2FyQT7IB%2FkNEPXvIWo9HI2hIVxq0PmY7UpG0BBDB8FTNi3lfLyEqG2f98eMQZlZSj3bDc8Lh6hVz3LGpTiHPBtlsHnEQ1CIWmIIJkUt47j0J6lllslQCgaJ4gMFnBbPQx7bDEEpGMRcIRZTAiFqLQyUAiEqMzApqJK9hmjYfQCp6uulgCZjkE3WNsOgHqLWJgDrcf%2FQL2Ido%2BHA9JA0jJeNfVYQosIitlr61HpIU17vb%2FomQ4iZZW9dW0R%2FROfeS4GQTntMrStYC3G9ciAFQGBesGANpGshJgUq2RFIt2E1RG2Ieyelh7SLSEhplCBCZNdFAEGF%2BGUhlKBCwmuCgRAxflnqTGoIMotASg%2FBxYcBEygEmUUopYOARURTE3X4A3%2F%2FxbCXe5YU3w5MBaGU912pflDiZbuQ4kkA%2Fr5jxTdXfoYQA5%2ByIr43LAOpWlcgdHkl8U3B5dU0pUDIlsi6wEKp3BRiEaH8UgdOepaitsWYJX2REot4WXlDZgi8gBuLUoQ75OxtXG61B8udzxA%2BrfMT1CW1c%2FzJzpasG3lB%2BCamedy77xi2JxiETSuuY53HHF4zN1LKDD%2BCnHdq04OQZvtl87eQpLyqTsQK5npsbnuRbFr0SJteJ%2B9zVC5ymQblLBMz6mUSrd1Agv9kKpeAnTaOgUFWFnJMnYt1d4kl%2BQ1kYwOsa%2Bslo7TjNYTzH7VR3sdZfSm7Fe%2BdNgC5aeJ%2BOh2j9mZN%2FGV4yKm%2Btf1%2BvILgeEFOj%2FIaAIPPa89uwR6FxGF5M8OnkKmKCn%2FzfdQGgTARsc8i%2FOf68nbOCdGuJ55YZwPdlOg%2FrdYew1Wo0frZYecL6ztT4bO64cSrBME3DiiTGNISduy3C3LVwEOCEq6R8FI5jUgr5ZSSOIEJIgZ6irFqMWltGWLT9GcIGYNXi1yu3IfV%2F3no%2BDNDBLWQ6Gwxrd8KZHHpks8QIkbvOIKQkncqQkJ5wvEFgq8XKQSvcB73ExIy34eihFhIUojAFrJcDifEu4RnBYJOPiMEi7BOtZBQH71WSpDJp0brOqnrY3XLJUisqd0LBKkxeqPQBbOuUpm2OCWSlYCFpJa9HLVZwj1DhAuJlHIB9Xyx0lmokAoSx7aCdJOPvBERSk6s0e2fy2v5F63H6jOhkWLB9wNKyZ1scpo2Y%2FJk%2Bjd91a1mIR8xAgVvYPX6nabmn6qF5DakPc2Xn7t%2FoL9%2BzQgF8APErm1rafD1s35kynDIx0JSG63eb5YQiXujPEyxNg9mtw985WykfZHUz8zP99tS%2FQij7n0%2B%2B%2Byzzz77tfYHdYVGxlARr18AAAAASUVORK5CYII%3D)](https://download.hyperiondaw.com/HyperionSetup.exe)
-[![Official Website](https://img.shields.io/badge/OFFICIAL-WEBSITE-EC4899?style=for-the-badge&labelColor=24114A&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAMFBMVEUxDGU1DW3V1dXl5eUpAl8rAmbe39vv8ex%2BaJ1mTIxSM32UhKrMydBEInS6ssWonLlL6UE2AAAACXBIWXMAAC4jAAAuIwF4pT92AAAD%2BElEQVRoge2X2baeIAxGUQQHQN%2F%2FbQuITBnU09VenGWuzm8Tdr4MaMXwH0x8kA%2FyQT7IB%2FkNEPXvIWo9HI2hIVxq0PmY7UpG0BBDB8FTNi3lfLyEqG2f98eMQZlZSj3bDc8Lh6hVz3LGpTiHPBtlsHnEQ1CIWmIIJkUt47j0J6lllslQCgaJ4gMFnBbPQx7bDEEpGMRcIRZTAiFqLQyUAiEqMzApqJK9hmjYfQCp6uulgCZjkE3WNsOgHqLWJgDrcf%2FQL2Ido%2BHA9JA0jJeNfVYQosIitlr61HpIU17vb%2FomQ4iZZW9dW0R%2FROfeS4GQTntMrStYC3G9ciAFQGBesGANpGshJgUq2RFIt2E1RG2Ieyelh7SLSEhplCBCZNdFAEGF%2BGUhlKBCwmuCgRAxflnqTGoIMotASg%2FBxYcBEygEmUUopYOARURTE3X4A3%2F%2FxbCXe5YU3w5MBaGU912pflDiZbuQ4kkA%2Fr5jxTdXfoYQA5%2ByIr43LAOpWlcgdHkl8U3B5dU0pUDIlsi6wEKp3BRiEaH8UgdOepaitsWYJX2REot4WXlDZgi8gBuLUoQ75OxtXG61B8udzxA%2BrfMT1CW1c%2FzJzpasG3lB%2BCamedy77xi2JxiETSuuY53HHF4zN1LKDD%2BCnHdq04OQZvtl87eQpLyqTsQK5npsbnuRbFr0SJteJ%2B9zVC5ymQblLBMz6mUSrd1Agv9kKpeAnTaOgUFWFnJMnYt1d4kl%2BQ1kYwOsa%2Bslo7TjNYTzH7VR3sdZfSm7Fe%2BdNgC5aeJ%2BOh2j9mZN%2FGV4yKm%2Btf1%2BvILgeEFOj%2FIaAIPPa89uwR6FxGF5M8OnkKmKCn%2FzfdQGgTARsc8i%2FOf68nbOCdGuJ55YZwPdlOg%2FrdYew1Wo0frZYecL6ztT4bO64cSrBME3DiiTGNISduy3C3LVwEOCEq6R8FI5jUgr5ZSSOIEJIgZ6irFqMWltGWLT9GcIGYNXi1yu3IfV%2F3no%2BDNDBLWQ6Gwxrd8KZHHpks8QIkbvOIKQkncqQkJ5wvEFgq8XKQSvcB73ExIy34eihFhIUojAFrJcDifEu4RnBYJOPiMEi7BOtZBQH71WSpDJp0brOqnrY3XLJUisqd0LBKkxeqPQBbOuUpm2OCWSlYCFpJa9HLVZwj1DhAuJlHIB9Xyx0lmokAoSx7aCdJOPvBERSk6s0e2fy2v5F63H6jOhkWLB9wNKyZ1scpo2Y%2FJk%2Bjd91a1mIR8xAgVvYPX6nabmn6qF5DakPc2Xn7t%2FoL9%2BzQgF8APErm1rafD1s35kynDIx0JSG63eb5YQiXujPEyxNg9mtw985WykfZHUz8zP99tS%2FQij7n0%2B%2B%2Byzzz77tfYHdYVGxlARr18AAAAASUVORK5CYII%3D)](https://www.hyperiondaw.com/)
-
-</div>
-
-The compact HyperION Setup application can install, update, or repair HyperION on supported Windows systems.
-
-[Download Page](https://www.hyperiondaw.com/download) · [Explore Features](https://www.hyperiondaw.com/features) · [Compare Editions](https://www.hyperiondaw.com/editions) · [Buy HyperION](https://www.hyperiondaw.com/buy)
-
-## Project status
-
-HyperION is under active development. Official builds are distributed through the [HyperION website](https://www.hyperiondaw.com/), with purchasing options provided through supported payment partners.
-
-This repository is the public home for product information, release communication, bug reports, and feature discussions. Application source code is not currently distributed here.
-
-## Feedback and support
-
-- Found a reproducible bug? [Open a bug report](https://github.com/hyperiondaw/HyperION/issues/new?template=bug_report.yml).
-- Have an idea? [Start a feature request](https://github.com/hyperiondaw/HyperION/issues/new?template=feature_request.yml).
-- Need help with HyperION, a purchase, or a download? Visit the [official contact page](https://www.hyperiondaw.com/contact).
-- Already purchased HyperION through a supported partner? [Claim your license key](https://www.hyperiondaw.com/claim-license-key).
-- Looking for common answers? Read the [HyperION FAQ](https://www.hyperiondaw.com/faq).
-- Before posting, please read the [support guide](SUPPORT.md).
-- Report sensitive security issues using the process described in [SECURITY.md](SECURITY.md).
-
-## Follow HyperION
-
-<div align="center">
-
-[![X](https://img.shields.io/badge/FOLLOW-X-000000?style=for-the-badge&labelColor=24114A&logo=x&logoColor=white)](https://x.com/HyperionDAW)
-[![Instagram](https://img.shields.io/badge/FOLLOW-INSTAGRAM-E4405F?style=for-the-badge&labelColor=24114A&logo=instagram&logoColor=white)](https://www.instagram.com/hyperiondaw/)
-[![YouTube](https://img.shields.io/badge/SUBSCRIBE-YOUTUBE-FF0000?style=for-the-badge&labelColor=24114A&logo=youtube&logoColor=white)](https://www.youtube.com/@HyperionDAW)
-[![GitHub](https://img.shields.io/badge/FOLLOW-GITHUB-8B5CF6?style=for-the-badge&labelColor=24114A&logo=github&logoColor=white)](https://github.com/hyperiondaw/HyperION)
-[![Gumroad](https://img.shields.io/badge/FOLLOW-GUMROAD-FF90E8?style=for-the-badge&labelColor=24114A&logo=gumroad&logoColor=white)](https://hyperiondaw.gumroad.com/)
-[![Patreon](https://img.shields.io/badge/SUPPORT-PATREON-FF424D?style=for-the-badge&labelColor=24114A&logo=patreon&logoColor=white)](https://www.patreon.com/c/Hyperiondaw/)
-
-</div>
-
-<div align="center">
-
-[Official Website](https://www.hyperiondaw.com/) · [Features](https://www.hyperiondaw.com/features) · [Releases](https://www.hyperiondaw.com/releases) · [FAQ](https://www.hyperiondaw.com/faq) · [Contact](https://www.hyperiondaw.com/contact)
-
-</div>
-
----
-
-<div align="center">
-  <sub>HyperION is independent software built for musicians, producers, and creators.</sub>
-</div>
+This repository hosts public product information, releases and issue discussions. HyperION application source code is not currently published here.
