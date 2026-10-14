@@ -20,7 +20,7 @@ HyperION is a cross-platform digital audio workstation for producers who want th
   <tr>
     <td width="33%" valign="top">
       <h3>🎹 Compose</h3>
-      Piano Roll, Step Sequencer and Pattern Mixer. Song Starter, Piano Roll, Step, Chain and Backing Track generators sketch full parts you can edit note by note.
+      Pattern- and arrangement-based production with Piano Roll, Step Sequencer and Pattern Mixer. Quantize, humanize, strum, arpeggiate and randomize, with a project scale system and many musical modes. Song Starter, Piano Roll, Step, Chain and Backing Track generators sketch full parts you can edit note by note.
     </td>
     <td width="33%" valign="top">
       <h3>🎙️ Record &amp; arrange</h3>
@@ -28,7 +28,7 @@ HyperION is a cross-platform digital audio workstation for producers who want th
     </td>
     <td width="33%" valign="top">
       <h3>🎚️ Mix &amp; master</h3>
-      Mixer with sends and routing, Control Room monitoring, VST3 hosting and stock processors. MasterLab adds EQ, glue, exciter, true-peak limiting and LUFS-targeted mastering.
+      Mixer with sends and routing, Master Matrix analysis, Control Room monitoring, VST3 scanning and plug-in editors, and stock processors such as HyperEQ and the Instrument Suite. MasterLab adds EQ, glue, exciter, true-peak limiting and LUFS-targeted mastering.
     </td>
   </tr>
   <tr>
@@ -49,28 +49,45 @@ HyperION is a cross-platform digital audio workstation for producers who want th
 
 ## See it in action
 
-![HyperION arrangement workspace](.github/assets/1.1.5.0/arrangement-view-02.webp)
+![HyperION arrangement workspace](.github/assets/app/arrangement.webp)
+
+<p align="center"><sub>The arrangement: tracks, clips, Production Deck, mixer strips and Control Room in one window.</sub></p>
 
 <table>
   <tr>
-    <td width="50%"><img src=".github/assets/1.1.5.0/piano-roll.webp" alt="HyperION Piano Roll"><br><strong>Piano Roll</strong>: compose and edit MIDI parts.</td>
-    <td width="50%"><img src=".github/assets/1.1.5.0/step-sequencer-intelligence.webp" alt="HyperION Step Sequencer"><br><strong>Step Sequencer</strong>: build rhythms and generate variations.</td>
+    <td width="33%" valign="top"><img src=".github/assets/app/piano-roll.webp" alt="HyperION Piano Roll"><br><strong>Piano Roll</strong><br><sub>Compose, edit and shape MIDI with articulation tools.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/app/step-sequencer.webp" alt="HyperION Step Sequencer"><br><strong>Step Sequencer</strong><br><sub>Program drums and patterns with pad performance.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/app/pattern-mixer.webp" alt="HyperION Pattern Mixer"><br><strong>Pattern Mixer</strong><br><sub>Balance every pattern lane with its own inserts.</sub></td>
   </tr>
   <tr>
-    <td><img src=".github/assets/1.1.5.0/mixer.webp" alt="HyperION Mixer"><br><strong>Mixer</strong>: balance channels, inserts and routing.</td>
-    <td><img src=".github/assets/1.1.5.0/stem-separation.webp" alt="HyperION Stem Separation"><br><strong>Stem Separation</strong>: split a song into vocals, drums, bass and more.</td>
+    <td width="33%" valign="top"><img src=".github/assets/app/mixer.webp" alt="HyperION Mixer"><br><strong>Mixer</strong><br><sub>Channel cards with inserts, sends and routing.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/app/mixer-meters.webp" alt="HyperION Mixer meters"><br><strong>Mixer meters</strong><br><sub>Faders and meters across the whole session.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/app/master-matrix.webp" alt="HyperION Master Matrix"><br><strong>Master Matrix</strong><br><sub>Spectrum, balance and loudness of the master.</sub></td>
   </tr>
   <tr>
-    <td><img src=".github/assets/1.1.5.0/track-to-midi.webp" alt="HyperION Track to MIDI"><br><strong>Track to MIDI</strong>: turn audio ideas into editable notes.</td>
-    <td><img src=".github/assets/1.1.5.0/hypertune.webp" alt="HyperION HyperTune"><br><strong>HyperTune</strong>: edit pitch and timing.</td>
+    <td width="33%" valign="top"><img src=".github/assets/app/song-starter.webp" alt="HyperION Song Starter"><br><strong>Song Starter</strong><br><sub>Generate a full arrangement by genre, key and mood.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/app/piano-roll-generator.webp" alt="HyperION Piano Roll Generator"><br><strong>Piano Roll Generator</strong><br><sub>Melodies, chords and basslines in your scale.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/app/step-generator.webp" alt="HyperION Step Generator"><br><strong>Step Generator</strong><br><sub>Genre-aware drum patterns from one click.</sub></td>
   </tr>
   <tr>
-    <td><img src=".github/assets/editors/photo-editor.webp" alt="HyperION Photo Editor"><br><strong>Photo Editor</strong> · Ultimate: layers, blend modes, filters and export.</td>
-    <td><img src=".github/assets/editors/video-editor.webp" alt="HyperION Video Editor"><br><strong>Video Editor</strong> · Ultimate: cut, transition and export video with your mix.</td>
+    <td width="33%" valign="top"><img src=".github/assets/app/instrument-suite.webp" alt="HyperION Instrument Suite"><br><strong>Instrument Suite</strong><br><sub>Built-in instruments with hundreds of presets.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/app/harmony.webp" alt="HyperION Harmony"><br><strong>Harmony</strong><br><sub>Explore chords and progressions, then drop them in.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/app/hypereq.webp" alt="HyperION HyperEQ"><br><strong>HyperEQ</strong><br><sub>Stock equalizer with dynamic bands and analysis.</sub></td>
   </tr>
   <tr>
-    <td><img src=".github/assets/1.1.5.0/themes.webp" alt="HyperION themes"><br><strong>Themes</strong>: choose an interface that fits your studio.</td>
-    <td><img src=".github/assets/1.1.5.0/prompt-audio-studio.webp" alt="HyperION Prompt Audio Studio"><br><strong>Prompt Audio Studio</strong>: explore assisted sound creation.</td>
+    <td width="33%" valign="top"><img src=".github/assets/app/masterlab.webp" alt="HyperION MasterLab"><br><strong>MasterLab</strong><br><sub>EQ, dynamics, exciter, imager and true-peak limiter.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/app/ai-mastering.webp" alt="HyperION AI Mastering"><br><strong>AI Mastering</strong><br><sub>Pick a style and a LUFS target, render the master.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/app/hypertune.webp" alt="HyperION HyperTune"><br><strong>HyperTune</strong><br><sub>Detect and edit pitch and timing note by note.</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><img src=".github/assets/app/track-to-midi.webp" alt="HyperION Track to MIDI"><br><strong>Track to MIDI</strong><br><sub>Turn melodies, bass and drums into editable MIDI.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/app/stem-separation.webp" alt="HyperION Stem Separation"><br><strong>Stem Separation</strong><br><sub>Split a song into vocals, drums, bass and more.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/app/sample-browser.webp" alt="HyperION Sample Browser"><br><strong>Sample Browser</strong><br><sub>Search, preview and drag sounds into the project.</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><img src=".github/assets/editors/photo-editor.webp" alt="HyperION Photo Editor · Ultimate"><br><strong>Photo Editor · Ultimate</strong><br><sub>Layers, blend modes, filters and cover export.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/editors/video-editor.webp" alt="HyperION Video Editor · Ultimate"><br><strong>Video Editor · Ultimate</strong><br><sub>Cut, transition and export video with your mix.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/1.1.5.0/themes.webp" alt="HyperION Themes"><br><strong>Themes</strong><br><sub>Switch the look of the whole studio in a click.</sub></td>
   </tr>
 </table>
 
