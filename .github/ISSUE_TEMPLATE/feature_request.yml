@@ -41,7 +41,10 @@ body:
         - AI-assisted tools
         - Export and mastering
         - Browser and library
+        - Video Editor and Photo Editor
+        - Generators
         - User interface
+        - Languages and accessibility
         - Other
     validations:
       required: true

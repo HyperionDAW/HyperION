@@ -4,9 +4,9 @@ Thanks for using HyperION. This repository is the best place for reproducible so
 
 ## Before opening an issue
 
-1. Confirm that you are using the latest build from the [official download page](https://www.hyperiondaw.com/download) or HyperION Setup.
+1. Confirm that you are using the latest build from the [official download page](https://www.hyperiondaw.com/download), Steam or the Microsoft Store.
 2. Restart HyperION and check whether the issue can be reproduced in a new project.
-3. Note the HyperION edition and version, Windows version, audio interface, sample rate, buffer size, and relevant plugin version.
+3. Note the HyperION edition and version, where you installed it (Steam, hyperiondaw.com or Microsoft Store), your operating system, audio driver, audio interface, sample rate, buffer size, and relevant plugin version.
 4. Remove personal information, license details, private project files, and copyrighted audio you cannot share.
 
 ## Bug reports

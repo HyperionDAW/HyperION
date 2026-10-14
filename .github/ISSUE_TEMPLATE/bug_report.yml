@@ -13,7 +13,7 @@ body:
     attributes:
       label: HyperION version
       description: Find the version in HyperION's About or version information.
-      placeholder: "Example: 1.0.4.0"
+      placeholder: "Example: 1.1.5.0"
     validations:
       required: true
   - type: dropdown
@@ -31,17 +31,50 @@ body:
     attributes:
       label: Installation source
       options:
-        - Official HyperION Setup
+        - Steam
+        - hyperiondaw.com (Windows Setup)
+        - hyperiondaw.com (macOS DMG or PKG)
+        - hyperiondaw.com (Linux AppImage or .deb)
         - Microsoft Store
         - Other supported channel
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Operating system
+      options:
+        - Windows 11
+        - Windows 10
+        - macOS (Apple silicon)
+        - macOS (Intel)
+        - Linux / SteamOS
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Audio playback or audio device
+        - Opening, saving or importing files
+        - Exporting audio, MIDI or video
+        - Recording
+        - Arrangement and editing
+        - MIDI, Piano Roll or Step Sequencer
+        - Mixer, routing or plug-ins
+        - Generators or AI tools
+        - Video Editor or Photo Editor
+        - Installation, updates or licence
+        - Other
     validations:
       required: true
   - type: input
     id: environment
     attributes:
       label: System and audio setup
-      description: Include Windows version, audio interface, sample rate, and buffer size when relevant.
-      placeholder: "Windows 11, interface name, 48 kHz, 256 samples"
+      description: OS version, audio driver (Windows Audio, ASIO, DirectSound, Core Audio, ALSA, PipeWire), audio interface or speakers, sample rate and buffer size.
+      placeholder: "Windows 11 24H2, Windows Audio, laptop speakers, 48 kHz, 512 samples"
     validations:
       required: true
   - type: textarea
@@ -71,7 +104,7 @@ body:
     id: evidence
     attributes:
       label: Logs or screenshots
-      description: Drag in sanitized logs, crash dumps, plug-in scan reports, or screenshots. Remove personal and licensing information first.
+      description: Drag in sanitized logs (Windows - Documents/HYPERION/Logs), crash dumps, plug-in scan reports or screenshots. Remove personal and licensing information first.
   - type: checkboxes
     id: checks
     attributes:
