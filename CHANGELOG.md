@@ -4,6 +4,7 @@ All public HyperION DAW releases, newest first. Each entry links to the full rel
 
 | Version | Date | Highlights |
 | --- | --- | --- |
+| [1.1.6.0](https://github.com/HyperionDAW/HyperION/releases/tag/v.1.1.6.0) | 2026-10-25 | Reliable audio start on every Windows setup, File > Open and drag and drop for projects, audio (M4A/AAC) and MIDI, clear save errors, HyperAmp guitar amp and six new vocal/mix plug-ins, HyperTune Smart Correct, HyperSpectral (Ultimate), Smart Match (Ultimate), new drum kits and 497 CC0 sounds, MasterLab mastering chain, faster interface. |
 | [1.1.5.0](https://github.com/HyperionDAW/HyperION/releases/tag/v.1.1.5.0) | 2026-09-24 | Video Editor and Photo Editor inside the DAW, multilingual Automatic Lyrics with SRT/WebVTT export, export fades, external VST support in generator and mix workflows, independent Main/Phones mute. |
 | [1.1.4.0](https://github.com/HyperionDAW/HyperION/releases/tag/v.1.1.4.0) | 2026-09-18 | Harmony tools, Openverse-powered sample workflow, downloadable Factory content, cross-platform foundations, Steam runtime handling, Pattern playback and Control Room metering fixes. |
 | [1.1.3.0](https://github.com/HyperionDAW/HyperION/releases/tag/v1.1.3.0) | 2026-08-18 | Full-project song composer, genre-aware drum generation, integrated Freesound browser, MPE and automation improvements. |

@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://www.hyperiondaw.com/"><img src=".github/assets/hyperion-banner.webp" alt="HyperION DAW — record, compose, mix and master, with video and artwork editing in the same project" width="100%"></a>
+<a href="https://www.hyperiondaw.com/"><img src=".github/assets/hyperion-banner.webp" alt="HyperION DAW: record, compose, mix and master, with video and artwork editing in the same project" width="100%"></a>
 
 <br>
 
@@ -12,7 +12,32 @@
 
 ---
 
-HyperION is a cross-platform digital audio workstation for producers who want the whole idea in one place: audio and MIDI recording, an editable arrangement, Piano Roll and Step Sequencer, mixing and mastering, offline AI tools, and, in Ultimate, video and artwork editing that stays in sync with the song.
+HyperION is a cross-platform digital audio workstation for producers who want the whole idea in one place. It covers:
+- audio and MIDI recording, and an editable arrangement;
+- Piano Roll and Step Sequencer;
+- vocal tuning and a modelled guitar amp;
+- mixing and mastering;
+- offline AI tools;
+- video and artwork editing that stays in sync with the song.
+
+## New in 1.1.6.0
+
+1.1.6.0 is built to be reliable from the first sound.
+- **Audio:** starts on every setup, and device problems are explained in plain words.
+- **Files:** projects, audio (M4A and AAC included) and MIDI open from File > Open or by drag and drop.
+- **Saving:** failed saves name the folder and the reason.
+
+It also adds:
+- the **HyperAmp** guitar amp;
+- seven new vocal and mix plug-ins;
+- **HyperTune Smart Correct**;
+- the **Clip Inspector** and track pitch lanes;
+- generators that give a new idea on every press;
+- in Ultimate, **HyperSpectral** spectral repair and **Smart Match**.
+
+![HyperION 1.1.5.0 and 1.1.6.0 arrangement, side by side](.github/assets/1.1.6.0/before-after-arrangement.webp)
+
+<p align="center"><sub>Real screenshots: 1.1.5.0 on the left, 1.1.6.0 on the right. <a href="https://github.com/HyperionDAW/HyperION/releases/latest">Read the full 1.1.6.0 notes</a>.</sub></p>
 
 ## What you can do
 
@@ -20,74 +45,71 @@ HyperION is a cross-platform digital audio workstation for producers who want th
   <tr>
     <td width="33%" valign="top">
       <h3>🎹 Compose</h3>
-      Pattern- and arrangement-based production with Piano Roll, Step Sequencer and Pattern Mixer. Quantize, humanize, strum, arpeggiate and randomize, with a project scale system and many musical modes. Song Starter, Piano Roll, Step, Chain and Backing Track generators sketch full parts you can edit note by note.
+      Pattern- and arrangement-based production with Piano Roll, Step Sequencer and Pattern Mixer. Expression Paint, note glides, quantize, humanize, strum and arpeggiate, with a project scale system. Song Starter, Piano Roll, Step, Chain, Harmony and Backing Track generators sketch full parts you can edit note by note.
     </td>
     <td width="33%" valign="top">
       <h3>🎙️ Record &amp; arrange</h3>
-      Multitrack audio and MIDI recording, clip fades and stretching, Groove Warp, folders and an arrangement built for fast editing. Drag a song in and start working.
+      Multitrack audio and MIDI recording, the Clip Inspector, clean pitch-locked time stretch, clip fades, track pitch lanes, folders and an arrangement built for fast editing. Drag a song in and start working.
     </td>
     <td width="33%" valign="top">
-      <h3>🎚️ Mix &amp; master</h3>
-      Mixer with sends and routing, Master Matrix analysis, Control Room monitoring, VST3 scanning and plug-in editors, and stock processors such as HyperEQ and the Instrument Suite. MasterLab adds EQ, glue, exciter, true-peak limiting and LUFS-targeted mastering.
+      <h3>🎸 Vocals &amp; guitar</h3>
+      HyperTune with Smart Correct, AutoTone with AUTO KEY, HyperShine, Vocal Leveler, Breath Control, Vocal Harmonizer, Vocal Plate and VoiceForge. HyperAmp has five amps, four pedals, cabinets with movable microphones and 45 presets.
     </td>
   </tr>
   <tr>
     <td valign="top">
+      <h3>🎚️ Mix &amp; master</h3>
+      Mixer with sends, buses, delay compensation and Control Room, VST3 scanning and plug-in editors. MasterLab adds EQ, glue, exciter, imager, true-peak limiting and LUFS-targeted mastering.
+    </td>
+    <td valign="top">
       <h3>🧠 Offline AI tools</h3>
-      Stem Separation, Track to MIDI, HyperTune pitch editing, Automatic Lyrics and AI Mastering run on your own computer.
+      Stem Separation, Track to MIDI, Automatic Lyrics and AI Mastering run on your own computer. Ultimate adds HyperSpectral repair and Smart Match.
     </td>
     <td valign="top">
       <h3>🎬 Video &amp; artwork</h3>
-      Ultimate brings a Video Editor and a Photo Editor into the project: cut a music video or design the cover without leaving the DAW.
-    </td>
-    <td valign="top">
-      <h3>🌍 Built for everyone</h3>
-      Windows, macOS and Linux, 31 interface languages, themes, and a free plan to try the full workflow before you buy.
+      Standard and Ultimate bring a Video Editor and a Photo Editor into the project: cut a music video or design the cover without leaving the DAW.
     </td>
   </tr>
 </table>
 
+Windows, macOS and Linux, 31 interface languages and themes. A free plan lets you try the full workflow before you buy.
+
 ## See it in action
 
-![HyperION arrangement workspace](.github/assets/app/arrangement.webp)
+![HyperION arrangement workspace](.github/assets/1.1.6.0/arrangement.webp)
 
 <p align="center"><sub>The arrangement: tracks, clips, Production Deck, mixer strips and Control Room in one window.</sub></p>
 
 <table>
   <tr>
-    <td width="33%" valign="top"><img src=".github/assets/app/piano-roll.webp" alt="HyperION Piano Roll"><br><strong>Piano Roll</strong><br><sub>Compose, edit and shape MIDI with articulation tools.</sub></td>
-    <td width="33%" valign="top"><img src=".github/assets/app/step-sequencer.webp" alt="HyperION Step Sequencer"><br><strong>Step Sequencer</strong><br><sub>Program drums and patterns with pad performance.</sub></td>
-    <td width="33%" valign="top"><img src=".github/assets/app/pattern-mixer.webp" alt="HyperION Pattern Mixer"><br><strong>Pattern Mixer</strong><br><sub>Balance every pattern lane with its own inserts.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/piano-roll.webp" alt="HyperION Piano Roll"><br><strong>Piano Roll</strong><br><sub>Expression Paint, glides and scale-aware editing.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/step-sequencer.webp" alt="HyperION Step Sequencer"><br><strong>Step Sequencer</strong><br><sub>Drums and patterns with 17 pad styles.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/mixer.webp" alt="HyperION Mixer"><br><strong>Mixer</strong><br><sub>Inserts, sends, buses and Control Room.</sub></td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><img src=".github/assets/app/mixer.webp" alt="HyperION Mixer"><br><strong>Mixer</strong><br><sub>Channel cards with inserts, sends and routing.</sub></td>
-    <td width="33%" valign="top"><img src=".github/assets/app/mixer-meters.webp" alt="HyperION Mixer meters"><br><strong>Mixer meters</strong><br><sub>Faders and meters across the whole session.</sub></td>
-    <td width="33%" valign="top"><img src=".github/assets/app/master-matrix.webp" alt="HyperION Master Matrix"><br><strong>Master Matrix</strong><br><sub>Spectrum, balance and loudness of the master.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/hyperamp.webp" alt="HyperION HyperAmp"><br><strong>HyperAmp</strong><br><sub>Amps, pedals, cabinets and movable microphones.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/hypertune.webp" alt="HyperION HyperTune Smart Correct"><br><strong>HyperTune Smart Correct</strong><br><sub>Tune a whole vocal in one pass.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/autotone.webp" alt="HyperION AutoTone"><br><strong>AutoTone</strong><br><sub>Real-time pitch correction with AUTO KEY.</sub></td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><img src=".github/assets/app/song-starter.webp" alt="HyperION Song Starter"><br><strong>Song Starter</strong><br><sub>Generate a full arrangement by genre, key and mood.</sub></td>
-    <td width="33%" valign="top"><img src=".github/assets/app/piano-roll-generator.webp" alt="HyperION Piano Roll Generator"><br><strong>Piano Roll Generator</strong><br><sub>Melodies, chords and basslines in your scale.</sub></td>
-    <td width="33%" valign="top"><img src=".github/assets/app/step-generator.webp" alt="HyperION Step Generator"><br><strong>Step Generator</strong><br><sub>Genre-aware drum patterns from one click.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/clip-inspector.webp" alt="HyperION Clip Inspector"><br><strong>Clip Inspector</strong><br><sub>Colour, fades, normalize and stretch per clip.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/master.webp" alt="HyperION Master"><br><strong>Master Matrix</strong><br><sub>Spectrum, balance and loudness of the master.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/masterlab.webp" alt="HyperION MasterLab"><br><strong>MasterLab</strong><br><sub>EQ, dynamics, exciter, imager and true-peak limiter.</sub></td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><img src=".github/assets/app/instrument-suite.webp" alt="HyperION Instrument Suite"><br><strong>Instrument Suite</strong><br><sub>Built-in instruments with hundreds of presets.</sub></td>
-    <td width="33%" valign="top"><img src=".github/assets/app/harmony.webp" alt="HyperION Harmony"><br><strong>Harmony</strong><br><sub>Explore chords and progressions, then drop them in.</sub></td>
-    <td width="33%" valign="top"><img src=".github/assets/app/hypereq.webp" alt="HyperION HyperEQ"><br><strong>HyperEQ</strong><br><sub>Stock equalizer with dynamic bands and analysis.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/song-starter.webp" alt="HyperION Song Starter"><br><strong>Song Starter</strong><br><sub>A full, editable song with a new idea on every press.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/piano-roll-generator.webp" alt="HyperION Piano Roll Generator"><br><strong>Piano Roll Generator</strong><br><sub>Melodies, chords and basslines in your scale.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/chain-generator.webp" alt="HyperION Chain Generator"><br><strong>Chain Generator</strong><br><sub>Build effect chains for a sound in one step.</sub></td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><img src=".github/assets/app/masterlab.webp" alt="HyperION MasterLab"><br><strong>MasterLab</strong><br><sub>EQ, dynamics, exciter, imager and true-peak limiter.</sub></td>
-    <td width="33%" valign="top"><img src=".github/assets/app/ai-mastering.webp" alt="HyperION AI Mastering"><br><strong>AI Mastering</strong><br><sub>Pick a style and a LUFS target, render the master.</sub></td>
-    <td width="33%" valign="top"><img src=".github/assets/app/hypertune.webp" alt="HyperION HyperTune"><br><strong>HyperTune</strong><br><sub>Detect and edit pitch and timing note by note.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/stem-separation.webp" alt="HyperION Stem Separation"><br><strong>Stem Separation</strong><br><sub>Split a song into 4 or 6 stems.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/track-to-midi.webp" alt="HyperION Track to MIDI"><br><strong>Track to MIDI</strong><br><sub>Turn drums and parts into editable MIDI.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/ai-mastering.webp" alt="HyperION AI Mastering"><br><strong>AI Mastering</strong><br><sub>Pick a style and a LUFS target, render the master.</sub></td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><img src=".github/assets/app/track-to-midi.webp" alt="HyperION Track to MIDI"><br><strong>Track to MIDI</strong><br><sub>Turn melodies, bass and drums into editable MIDI.</sub></td>
-    <td width="33%" valign="top"><img src=".github/assets/app/stem-separation.webp" alt="HyperION Stem Separation"><br><strong>Stem Separation</strong><br><sub>Split a song into vocals, drums, bass and more.</sub></td>
-    <td width="33%" valign="top"><img src=".github/assets/app/sample-browser.webp" alt="HyperION Sample Browser"><br><strong>Sample Browser</strong><br><sub>Search, preview and drag sounds into the project.</sub></td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top"><img src=".github/assets/editors/photo-editor.webp" alt="HyperION Photo Editor · Ultimate"><br><strong>Photo Editor · Ultimate</strong><br><sub>Layers, blend modes, filters and cover export.</sub></td>
-    <td width="33%" valign="top"><img src=".github/assets/editors/video-editor.webp" alt="HyperION Video Editor · Ultimate"><br><strong>Video Editor · Ultimate</strong><br><sub>Cut, transition and export video with your mix.</sub></td>
-    <td width="33%" valign="top"><img src=".github/assets/1.1.5.0/themes.webp" alt="HyperION Themes"><br><strong>Themes</strong><br><sub>Switch the look of the whole studio in a click.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/hyperspectral.webp" alt="HyperION HyperSpectral · Ultimate"><br><strong>HyperSpectral · Ultimate</strong><br><sub>See and repair sound: 40 modules, one-click Enhance.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/smart-match.webp" alt="HyperION Smart Match · Ultimate"><br><strong>Smart Match · Ultimate</strong><br><sub>Fit any clip to a reference by tempo, groove and key.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/video-editor.webp" alt="HyperION Video Editor · Standard and Ultimate"><br><strong>Video Editor</strong><br><sub>Cut, transition and export video with your mix.</sub></td>
   </tr>
 </table>
 
@@ -103,11 +125,11 @@ More views are in the [screenshot gallery](https://www.hyperiondaw.com/screensho
 
 ### Editions
 
-| Edition | For | Price |
+| Edition | What you get | Price |
 | --- | --- | --- |
-| [Free / Demo](https://www.hyperiondaw.com/editions/demo) | Trying the complete workflow with a per-device save, export and AI allowance | Free |
-| [Standard](https://www.hyperiondaw.com/editions/standard) | The full core production workflow with unlimited saving and export | $20 one-time |
-| [Ultimate](https://www.hyperiondaw.com/editions/ultimate) | Everything, plus Video Editor, Photo Editor and unlimited generators | $30 one-time |
+| [Free](https://www.hyperiondaw.com/editions/demo) | The full DAW, 50 generator and AI credits, and 20 saves and 20 of each export per device | Free |
+| [Standard](https://www.hyperiondaw.com/editions/standard) | Unlimited saving and export, 250 credits, Photo Editor and Video Editor | $20 one-time |
+| [Ultimate](https://www.hyperiondaw.com/editions/ultimate) | Everything in Standard, plus unlimited generators and AI, HyperSpectral and Smart Match | $30 one-time |
 
 Lifetime licence, no subscription. Limits and features can change between releases; the [live comparison](https://www.hyperiondaw.com/editions) is always current.
 
