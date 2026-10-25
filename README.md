@@ -29,7 +29,7 @@ HyperION is a cross-platform digital audio workstation for producers who want th
 
 It also adds:
 - the **HyperAmp** guitar amp;
-- seven new vocal and mix plug-ins;
+- six new vocal and mix plug-ins;
 - **HyperTune Smart Correct**;
 - the **Clip Inspector** and track pitch lanes;
 - generators that give a new idea on every press;
@@ -87,27 +87,22 @@ Windows, macOS and Linux, 31 interface languages and themes. A free plan lets yo
     <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/mixer.webp" alt="HyperION Mixer"><br><strong>Mixer</strong><br><sub>Inserts, sends, buses and Control Room.</sub></td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/hyperamp.webp" alt="HyperION HyperAmp"><br><strong>HyperAmp</strong><br><sub>Amps, pedals, cabinets and movable microphones.</sub></td>
     <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/hypertune.webp" alt="HyperION HyperTune Smart Correct"><br><strong>HyperTune Smart Correct</strong><br><sub>Tune a whole vocal in one pass.</sub></td>
     <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/autotone.webp" alt="HyperION AutoTone"><br><strong>AutoTone</strong><br><sub>Real-time pitch correction with AUTO KEY.</sub></td>
-  </tr>
-  <tr>
     <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/clip-inspector.webp" alt="HyperION Clip Inspector"><br><strong>Clip Inspector</strong><br><sub>Colour, fades, normalize and stretch per clip.</sub></td>
-    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/master.webp" alt="HyperION Master"><br><strong>Master Matrix</strong><br><sub>Spectrum, balance and loudness of the master.</sub></td>
-    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/masterlab.webp" alt="HyperION MasterLab"><br><strong>MasterLab</strong><br><sub>EQ, dynamics, exciter, imager and true-peak limiter.</sub></td>
   </tr>
   <tr>
+    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/masterlab.webp" alt="HyperION MasterLab"><br><strong>MasterLab</strong><br><sub>EQ, dynamics, exciter, imager and true-peak limiter.</sub></td>
     <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/song-starter.webp" alt="HyperION Song Starter"><br><strong>Song Starter</strong><br><sub>A full, editable song with a new idea on every press.</sub></td>
     <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/piano-roll-generator.webp" alt="HyperION Piano Roll Generator"><br><strong>Piano Roll Generator</strong><br><sub>Melodies, chords and basslines in your scale.</sub></td>
-    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/chain-generator.webp" alt="HyperION Chain Generator"><br><strong>Chain Generator</strong><br><sub>Build effect chains for a sound in one step.</sub></td>
   </tr>
   <tr>
+    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/chain-generator.webp" alt="HyperION Chain Generator"><br><strong>Chain Generator</strong><br><sub>Build effect chains for a sound in one step.</sub></td>
     <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/stem-separation.webp" alt="HyperION Stem Separation"><br><strong>Stem Separation</strong><br><sub>Split a song into 4 or 6 stems.</sub></td>
     <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/track-to-midi.webp" alt="HyperION Track to MIDI"><br><strong>Track to MIDI</strong><br><sub>Turn drums and parts into editable MIDI.</sub></td>
-    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/ai-mastering.webp" alt="HyperION AI Mastering"><br><strong>AI Mastering</strong><br><sub>Pick a style and a LUFS target, render the master.</sub></td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/hyperspectral.webp" alt="HyperION HyperSpectral · Ultimate"><br><strong>HyperSpectral · Ultimate</strong><br><sub>See and repair sound: 40 modules, one-click Enhance.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/ai-mastering.webp" alt="HyperION AI Mastering"><br><strong>AI Mastering</strong><br><sub>Pick a style and a LUFS target, render the master.</sub></td>
     <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/smart-match.webp" alt="HyperION Smart Match · Ultimate"><br><strong>Smart Match · Ultimate</strong><br><sub>Fit any clip to a reference by tempo, groove and key.</sub></td>
     <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/video-editor.webp" alt="HyperION Video Editor · Standard and Ultimate"><br><strong>Video Editor</strong><br><sub>Cut, transition and export video with your mix.</sub></td>
   </tr>
