@@ -59,7 +59,7 @@ It also adds:
   <tr>
     <td valign="top">
       <h3>🎚️ Mix &amp; master</h3>
-      Mixer with sends, buses, delay compensation and Control Room, VST3 scanning and plug-in editors. MasterLab adds EQ, glue, exciter, imager, true-peak limiting and LUFS-targeted mastering.
+      Mixer with sends, buses, delay compensation and Control Room, VST® 3 scanning and plug-in editors. MasterLab adds EQ, glue, exciter, imager, true-peak limiting and LUFS-targeted mastering.
     </td>
     <td valign="top">
       <h3>🧠 Offline AI tools</h3>
@@ -71,6 +71,8 @@ It also adds:
     </td>
   </tr>
 </table>
+
+<p align="center"><img src=".github/assets/vst-compatible.png" width="96" alt="VST Compatible">&nbsp;&nbsp;<img src=".github/assets/asio-compatible.png" width="96" alt="ASIO Compatible"></p>
 
 Windows, macOS and Linux, 31 interface languages and themes. A free plan lets you try the full workflow before you buy.
 
@@ -150,4 +152,4 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) and the [Code of Conduct](CODE_OF
 
 ---
 
-<sub>HyperION DAW is developed by KOS MUSIC. The application is proprietary; this repository hosts public release notes, documentation and issue tracking, and does not contain the application source code. VST is a trademark of Steinberg Media Technologies GmbH. Other product names are trademarks of their respective owners.</sub>
+<sub>HyperION DAW is developed by KOS MUSIC. The application is proprietary; this repository hosts public release notes, documentation and issue tracking, and does not contain the application source code. VST is a registered trademark of Steinberg Media Technologies GmbH. ASIO is a trademark of Steinberg Media Technologies GmbH, registered in Europe and other countries. Other product names are trademarks of their respective owners.</sub>
