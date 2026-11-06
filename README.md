@@ -20,24 +20,24 @@ HyperION is a cross-platform digital audio workstation for producers who want th
 - offline AI tools;
 - video and artwork editing that stays in sync with the song.
 
-## New in 1.1.6.0
+## New in 1.2.0
 
-1.1.6.0 is built to be reliable from the first sound.
-- **Audio:** starts on every setup, and device problems are explained in plain words.
-- **Files:** projects, audio (M4A and AAC included) and MIDI open from File > Open or by drag and drop.
-- **Saving:** failed saves name the folder and the reason.
+1.2.0 is a big creative update.
+- **Ideas in seconds:** a chord track, Hum to MIDI, Beatbox to Drums and 108 Pattern Starters in 13 genres.
+- **Editing:** piano roll spray, stretch, ghost notes, triplets and an MPE lane, Scale Lock, Feel Quantize and expression maps.
+- **Lyrics:** the notepad and Automatic Lyrics stay in sync, with SRT, LRC, VTT and TXT export.
+- **Mix and master:** Dynamic EQ with M/S, Vocal Doubler and Vocal Strip, a MIX knob on third-party inserts, and One-Click Mastering in the master slot.
 
 It also adds:
-- the **HyperAmp** guitar amp;
-- six new vocal and mix plug-ins;
-- **HyperTune Smart Correct**;
-- the **Clip Inspector** and track pitch lanes;
-- generators that give a new idea on every press;
-- in Ultimate, **HyperSpectral** spectral repair and **Smart Match**.
+- three new stock plug-ins: **Chord Resonator**, **Groove Shaper** and **HyperArp**;
+- **game-audio export** with loop points, engine metadata and stems, plus dynamic music layers;
+- **Clip Stage** for live clip launching;
+- **MCP Studio**, so an AI assistant on your own computer can work in your project;
+- unlimited saving and export in every edition, including Free.
 
-![HyperION 1.1.5.0 and 1.1.6.0 arrangement, side by side](.github/assets/1.1.6.0/before-after-arrangement.webp)
+![HyperION arrangement](.github/assets/1.1.6.0/arrangement.webp)
 
-<p align="center"><sub>Real screenshots: 1.1.5.0 on the left, 1.1.6.0 on the right. <a href="https://github.com/HyperionDAW/HyperION/releases/latest">Read the full 1.1.6.0 notes</a>.</sub></p>
+<p align="center"><sub>Real screenshot of HyperION. <a href="https://github.com/HyperionDAW/HyperION/releases/latest">Read the full release notes</a>.</sub></p>
 
 ## What you can do
 
@@ -45,7 +45,7 @@ It also adds:
   <tr>
     <td width="33%" valign="top">
       <h3>🎹 Compose</h3>
-      Pattern- and arrangement-based production with Piano Roll, Step Sequencer and Pattern Mixer. Expression Paint, note glides, quantize, humanize, strum and arpeggiate, with a project scale system. Song Starter, Piano Roll, Step, Chain, Harmony and Backing Track generators sketch full parts you can edit note by note.
+      Pattern- and arrangement-based production with Piano Roll, Step Sequencer and Pattern Mixer. Expression Paint, note glides, Feel Quantize, Scale Lock, strum and arpeggiate, a chord track and 108 Pattern Starters. Hum to MIDI and Beatbox to Drums turn your voice into parts. Song Starter, Piano Roll, Step, Chain, Harmony and Backing Track generators sketch full parts you can edit note by note.
     </td>
     <td width="33%" valign="top">
       <h3>🎙️ Record &amp; arrange</h3>
@@ -59,11 +59,11 @@ It also adds:
   <tr>
     <td valign="top">
       <h3>🎚️ Mix &amp; master</h3>
-      Mixer with sends, buses, delay compensation and Control Room, VST® 3 scanning and plug-in editors. MasterLab adds EQ, glue, exciter, imager, true-peak limiting and LUFS-targeted mastering.
+      Mixer with sends, buses, delay compensation and Control Room, VST® 3 scanning, plug-in editors and crash isolation. MasterLab adds EQ, glue, exciter, imager, true-peak limiting and LUFS-targeted mastering. Free includes Basic Mastering; Standard and Ultimate add One-Click Mastering.
     </td>
     <td valign="top">
       <h3>🧠 Offline AI tools</h3>
-      Stem Separation, Track to MIDI, Automatic Lyrics and AI Mastering run on your own computer. Ultimate adds HyperSpectral repair and Smart Match.
+      Stem Separation, Track to MIDI and Automatic Lyrics run on your own computer. Ultimate adds HyperSpectral repair and Smart Match.
     </td>
     <td valign="top">
       <h3>🎬 Video &amp; artwork</h3>
@@ -74,7 +74,7 @@ It also adds:
 
 <p align="center"><img src=".github/assets/vst-compatible.png" width="96" alt="VST Compatible">&nbsp;&nbsp;<img src=".github/assets/asio-compatible.png" width="96" alt="ASIO Compatible"></p>
 
-Windows, macOS and Linux, 31 interface languages and themes. A free plan lets you try the full workflow before you buy.
+Windows, macOS and Linux, 31 interface languages and themes. The Free edition includes the full workflow with unlimited saving and export.
 
 ## See it in action
 
@@ -104,7 +104,7 @@ Windows, macOS and Linux, 31 interface languages and themes. A free plan lets yo
     <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/track-to-midi.webp" alt="HyperION Track to MIDI"><br><strong>Track to MIDI</strong><br><sub>Turn drums and parts into editable MIDI.</sub></td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/ai-mastering.webp" alt="HyperION AI Mastering"><br><strong>AI Mastering</strong><br><sub>Pick a style and a LUFS target, render the master.</sub></td>
+    <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/hyperamp.webp" alt="HyperION HyperAmp"><br><strong>HyperAmp</strong><br><sub>Five amps, four pedals, cabinets and 45 presets.</sub></td>
     <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/smart-match.webp" alt="HyperION Smart Match · Ultimate"><br><strong>Smart Match · Ultimate</strong><br><sub>Fit any clip to a reference by tempo, groove and key.</sub></td>
     <td width="33%" valign="top"><img src=".github/assets/1.1.6.0/video-editor.webp" alt="HyperION Video Editor · Standard and Ultimate"><br><strong>Video Editor</strong><br><sub>Cut, transition and export video with your mix.</sub></td>
   </tr>
@@ -124,8 +124,8 @@ More views are in the [screenshot gallery](https://www.hyperiondaw.com/screensho
 
 | Edition | What you get | Price |
 | --- | --- | --- |
-| [Free](https://www.hyperiondaw.com/editions/demo) | The full DAW, 50 generator and AI credits, and 20 saves and 20 of each export per device | Free |
-| [Standard](https://www.hyperiondaw.com/editions/standard) | Unlimited saving and export, 250 credits, Photo Editor and Video Editor | $20 one-time |
+| [Free](https://www.hyperiondaw.com/editions/demo) | The full DAW with unlimited saving and export, 50 generator and AI credits, Basic Mastering | Free |
+| [Standard](https://www.hyperiondaw.com/editions/standard) | 250 credits, One-Click Mastering, Photo Editor and Video Editor | $20 one-time |
 | [Ultimate](https://www.hyperiondaw.com/editions/ultimate) | Everything in Standard, plus unlimited generators and AI, HyperSpectral and Smart Match | $30 one-time |
 
 Lifetime licence, no subscription. Limits and features can change between releases; the [live comparison](https://www.hyperiondaw.com/editions) is always current.
@@ -152,4 +152,4 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) and the [Code of Conduct](CODE_OF
 
 ---
 
-<sub>HyperION DAW is developed by KOS MUSIC. The application is proprietary; this repository hosts public release notes, documentation and issue tracking, and does not contain the application source code. VST is a registered trademark of Steinberg Media Technologies GmbH. ASIO is a trademark of Steinberg Media Technologies GmbH, registered in Europe and other countries. Other product names are trademarks of their respective owners.</sub>
+<sub>HyperION DAW is developed by KOS MUSIC. The application is proprietary; this repository hosts public release notes, documentation and issue tracking, and does not contain the application source code. VST is a registered trademark of Steinberg Media Technologies GmbH. ASIO is a trademark and software of Steinberg Media Technologies GmbH. Other product names are trademarks of their respective owners.</sub>
